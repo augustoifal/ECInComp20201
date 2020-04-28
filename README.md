@@ -1,6 +1,8 @@
 # Turma: ECInComp20201
 ## Aulas de Introdução à Computação (IFAL-Maceió-Eng. Civil) - Período: 2020-1
+
 Prof. Augusto Melo
+
 Aulas Práticas de Programação em Python para a disciplina de Introdução à Computação do Curso de Bacharelado em Engenharia Civil no IFAL - Campus Maceió.
 
 Ementa:
